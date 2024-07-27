@@ -1,0 +1,42 @@
+# Compiled source files
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Log files
+*.log
+
+# Dependency directories
+node_modules/
+vendor/
+venv/
+
+# Build directories
+build/
+dist/
+out/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# IDE specific files
+.vscode/
+.idea/
+
+# System specific files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+*.config
+*.env
+*.local
+
+# Python cache files
+__pycache__/
+*.pyc
